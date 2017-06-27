@@ -1,0 +1,8 @@
+com\niit\configuration\DBConfig.class
+com\niit\model\Product.class
+com\niit\controller\PersonController.class
+com\niit\dao\PersonDao.class
+com\niit\configuration\WebAppInitializer.class
+com\niit\configuration\WebConfig.class
+com\niit\model\Person.class
+com\niit\dao\PersonDaoImpl.class
